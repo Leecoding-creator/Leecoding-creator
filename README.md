@@ -29,6 +29,3 @@
 </p>
 
 ---
-
-### 📫 Contact
-📧 **wmfm314212@gmail.com**
