@@ -38,5 +38,5 @@
 
 ### 📫 Contact
 <a href="mailto:wmfm314@naver.com">
-  <img src="https://img.shields.io/badge/Email-wmfm314%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver%20Mail-Contact-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 </a>
