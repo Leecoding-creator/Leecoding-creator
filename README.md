@@ -20,14 +20,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Leecoding-creator&show_icons=true&theme=default&hide_border=true" height="170" />
-</p>
-
-<br/>
-
 ### 📫 Contact
 📧 **wmfm314212@gmail.com**
 
