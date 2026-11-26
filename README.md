@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180§ion=header&text=Junho%20Lee&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18" width="100%" />
+# 👋 Junho Lee
+**Backend Developer | Java & Spring Boot**
 
 ### 안녕하세요! Java & Spring Boot 기반 백엔드 개발자 이준호입니다.
 실시간 스트리밍, 동시성 제어, 외부 AI API 연동을 통해 안정적인 서버 애플리케이션을 구축하고 문제를 해결합니다.
@@ -27,8 +28,8 @@
 ### 📊 Stats & Problem Solving
 
 <p>
-  <a href="https://solved.ac/Leecoding-creator">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Leecoding-creator" height="165" />
+  <a href="https://solved.ac/Leecoding_creator">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Leecoding_creator" height="165" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=Leecoding-creator&show_icons=true&theme=default&hide_border=true" height="165" />
 </p>
@@ -37,7 +38,7 @@
 
 ### 📫 Contact
 <a href="mailto:wmfm314@naver.com">
-  <img src="https://img.shields.io/badge/Email-wmfm314@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver%20Mail-wmfm314%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 </a>
 
 </div>
